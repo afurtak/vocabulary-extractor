@@ -1,0 +1,240 @@
+number
+	Definition       : the property possessed by a sum or total or indefinite quantity of units or individuals
+	Context from text: Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.
+
+proud
+	Definition       : feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride
+	Context from text: Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.
+
+say
+	Definition       : express in words
+	Context from text: Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.
+
+perfectly
+	Definition       : completely and without qualification; used informally as intensifiers
+	Context from text: Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.
+
+normal
+	Definition       : conforming with or constituting a norm or standard or level or type or social norm; not abnormal
+	Context from text: Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.
+
+thank
+	Definition       : express gratitude or show appreciation to
+	Context from text: Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.
+
+much
+	Definition       : to a great degree or extent
+	Context from text: Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much.
+
+last
+	Definition       : immediately past
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+people
+	Definition       : (plural) any group of human beings (men or women or children) collectively
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+expect
+	Definition       : regard something as probable or likely
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+involve
+	Definition       : connect closely and often incriminatingly
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+strange
+	Definition       : being definitely out of the ordinary and unexpected; slightly odd or even a bit weird
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+mysterious
+	Definition       : of an obscure nature; ; ; ; - Rachel Carson
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+hold
+	Definition       : keep in a certain state, position, or activity; e.g.,
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+nonsense
+	Definition       : a message that seems to convey no meaning
+	Context from text: They were the last people you’d expect to be involved in anything strange or mysterious, because they just didn’t hold with such nonsense.
+
+director
+	Definition       : someone who controls resources and expenditures
+	Context from text: Mr. Dursley was the director of a firm called Grunnings, which made drills.
+
+firm
+	Definition       : the members of a business organization that owns or operates one or more establishments
+	Context from text: Mr. Dursley was the director of a firm called Grunnings, which made drills.
+
+call
+	Definition       : assign a specified (usually proper) proper name to
+	Context from text: Mr. Dursley was the director of a firm called Grunnings, which made drills.
+
+make
+	Definition       : engage in
+	Context from text: Mr. Dursley was the director of a firm called Grunnings, which made drills.
+
+drill
+	Definition       : a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)
+	Context from text: Mr. Dursley was the director of a firm called Grunnings, which made drills.
+
+big
+	Definition       : above average in size or number or quantity or magnitude or extent
+	Context from text: He was a big, beefy man with hardly any neck, although he did have a very large mustache.
+
+beefy
+	Definition       : muscular and heavily built
+	Context from text: He was a big, beefy man with hardly any neck, although he did have a very large mustache.
+
+man
+	Definition       : an adult person who is male (as opposed to a woman)
+	Context from text: He was a big, beefy man with hardly any neck, although he did have a very large mustache.
+
+hardly
+	Definition       : only a very short time before; ; ; ; ; - W.B.Yeats
+	Context from text: He was a big, beefy man with hardly any neck, although he did have a very large mustache.
+
+neck
+	Definition       : the part of an organism (human or animal) that connects the head to the rest of the body
+	Context from text: He was a big, beefy man with hardly any neck, although he did have a very large mustache.
+
+large
+	Definition       : above average in size or number or quantity or magnitude or extent
+	Context from text: He was a big, beefy man with hardly any neck, although he did have a very large mustache.
+
+mustache
+	Definition       : an unshaved growth of hair on the upper lip
+	Context from text: He was a big, beefy man with hardly any neck, although he did have a very large mustache.
+
+thin
+	Definition       : of relatively small extent from one surface to the opposite or in cross section
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+blonde
+	Definition       : being or having light colored skin and hair and usually blue or grey eyes
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+nearly
+	Definition       : (of actions or states) slightly short of or not quite accomplished; all but
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+usual
+	Definition       : occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+amount
+	Definition       : a quantity of money
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+come
+	Definition       : move toward, travel toward something or somebody or approach something or somebody
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+useful
+	Definition       : being of use or service
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+spend
+	Definition       : pass time in a specific way
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+much
+	Definition       : (quantifier used with mass nouns) great in quantity or degree or extent
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+time
+	Definition       : an instance or single occasion for some event
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+crane
+	Definition       : stretch (the neck) so as to see better
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+spy
+	Definition       : catch sight of
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+neighbor
+	Definition       : a person who lives (or is located) near another
+	Context from text: Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck, which came in very useful as she spent so much of her time craning over garden fences, spying on the neighbors.
+
+small
+	Definition       : limited or below average in number or quantity or magnitude or extent
+	Context from text: The Dursley s had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+son
+	Definition       : a male human offspring
+	Context from text: The Dursley s had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+call
+	Definition       : assign a specified (usually proper) proper name to
+	Context from text: The Dursley s had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+opinion
+	Definition       : a personal belief or judgment that is not founded on proof or certainty
+	Context from text: The Dursley s had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+finer
+	Definition       : (comparative of `fine') greater in quality or excellence
+	Context from text: The Dursley s had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+boy
+	Definition       : a youthful male person
+	Context from text: The Dursley s had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+anywhere
+	Definition       : at or in or to any place; ; (`anyplace' is used informally for `anywhere')
+	Context from text: The Dursley s had a small son called Dudley and in their opinion there was no finer boy anywhere.
+
+want
+	Definition       : feel or have a desire for; want strongly
+	Context from text: The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it.
+
+also
+	Definition       : in addition
+	Context from text: The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it.
+
+secret
+	Definition       : something that should remain hidden from others (especially information that is not to be passed on)
+	Context from text: The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it.
+
+greatest
+	Definition       : highest in quality
+	Context from text: The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it.
+
+fear
+	Definition       : an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+	Context from text: The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it.
+
+somebody
+	Definition       : a human being
+	Context from text: The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it.
+
+discover
+	Definition       : discover or determine the existence, presence, or fact of
+	Context from text: The Dursleys had everything they wanted, but they also had a secret, and their greatest fear was that somebody would discover it.
+
+think
+	Definition       : judge or regard; look upon; judge
+	Context from text: They didn’t think they could bear it if anyone found out about the Potters.
+
+bear
+	Definition       : have
+	Context from text: They didn’t think they could bear it if anyone found out about the Potters.
+
+find out
+	Definition       : establish after a calculation, investigation, experiment, survey, or study
+	Context from text: They didn’t think they could bear it if anyone found out about the Potters.
+
+potter
+	Definition       : a craftsman who shapes pottery on a potter's wheel and bakes them it a kiln
+	Context from text: They didn’t think they could bear it if anyone found out about the Potters.
+
+Potter
+	Definition       : a craftsman who shapes pottery on a potter's wheel and bakes them it a kiln
+	Context from text: Mrs. Potter was Mrs. Dursley’s sister, but they hadn’t
+
+sister
+	Definition       : a female person who has the same parents as another person
+	Context from text: Mrs. Potter was Mrs. Dursley’s sister, but they hadn’t
+

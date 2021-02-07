@@ -1,0 +1,128 @@
+set off
+	Definition       : put in motion or move to act
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+work
+	Definition       : activity directed toward making or doing something
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+morning
+	Definition       : the time period between dawn and noon
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+car
+	Definition       : a motor vehicle with four wheels; usually propelled by an internal combustion engine
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+break down
+	Definition       : make ineffective
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+end up
+	Definition       : finally be or do something
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+take
+	Definition       : carry out
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+bus
+	Definition       : a vehicle carrying many passengers; used for public transport
+	Context from text: When I set off for work this morning, my car broke down, so I ended up taking the bus.
+
+soon
+	Definition       : in the near future
+	Context from text: As soon as I got off, I bumped into an old schoolmate, Mark.
+
+get off
+	Definition       : leave a vehicle, aircraft, etc.
+	Context from text: As soon as I got off, I bumped into an old schoolmate, Mark.
+
+bump
+	Definition       : knock against with force or violence
+	Context from text: As soon as I got off, I bumped into an old schoolmate, Mark.
+
+old
+	Definition       : (used especially of persons) having lived for a relatively long time or attained a specific age
+	Context from text: As soon as I got off, I bumped into an old schoolmate, Mark.
+
+schoolmate
+	Definition       : an acquaintance that you go to school with
+	Context from text: As soon as I got off, I bumped into an old schoolmate, Mark.
+
+Mark
+	Definition       : a number or letter indicating quality (especially of a student's performance)
+	Context from text: As soon as I got off, I bumped into an old schoolmate, Mark.
+
+talk
+	Definition       : exchange thoughts; talk with
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+bring up
+	Definition       : summon into action or bring into existence, often as if by magic
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+already
+	Definition       : prior to a specified or implied time
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+find out
+	Definition       : establish after a calculation, investigation, experiment, survey, or study
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+mutual
+	Definition       : common to or shared by two or more parties
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+friend
+	Definition       : a person you know well and regard with affection and trust
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+come
+	Definition       : move toward, travel toward something or somebody or approach something or somebody
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+money
+	Definition       : the most common medium of exchange; functions as legal tender
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+set up
+	Definition       : set up or found
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+business
+	Definition       : a commercial or industrial enterprise and the people who constitute it
+	Context from text: While we were talking, he brought up something I had already found out from some mutual friends- that he had come into some money and had set up his own business.
+
+tell
+	Definition       : express in words
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
+lot
+	Definition       : (often followed by `of') a large number or amount or extent
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
+sort
+	Definition       : examine in order to test suitability
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
+offer
+	Definition       : make available or accessible, provide or furnish
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
+take on
+	Definition       : take on a certain form, attribute, or aspect
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
+turn down
+	Definition       : refuse to accept
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
+straight
+	Definition       : without deviation
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
+away
+	Definition       : from a particular thing or place or position (`forth' is obsolete)
+	Context from text: He told me that there was a lot to sort out, and offered to take me on, but I turned him down straight away.
+
